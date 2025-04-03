@@ -1,0 +1,55 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Onelots</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Categories - Category - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Cybernight</title>
+    <link>http://localhost:1313/categories/cybernight/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/cybernight/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Writeups</title>
+    <link>http://localhost:1313/categories/writeups/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/writeups/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Stranger Case 2024</title>
+    <link>http://localhost:1313/categories/stranger-case-2024/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/stranger-case-2024/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>MidnightCTF</title>
+    <link>http://localhost:1313/categories/midnightctf/</link>
+    <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/midnightctf/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Bordeaux CTF by CTFREI</title>
+    <link>http://localhost:1313/categories/bordeaux-ctf-by-ctfrei/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/bordeaux-ctf-by-ctfrei/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>EC2 2024</title>
+    <link>http://localhost:1313/categories/ec2-2024/</link>
+    <pubDate>Fri, 05 Apr 2024 00:26:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/categories/ec2-2024/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

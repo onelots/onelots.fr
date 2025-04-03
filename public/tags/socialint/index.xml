@@ -1,0 +1,95 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SocialInt - Tag - Onelots</title>
+        <link>http://localhost:1313/tags/socialint/</link>
+        <description>SocialInt - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/socialint/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo Nelots - Prélude</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/HugoNelots/HugoNelots.png" title="Sujet" data-thumbnail="/BordeauxCTF/HugoNelots/HugoNelots.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>31/02 2024. Vous êtes dépêché au 83 Rue Lucien Faure. En effet, au 3eme étage de l&rsquo;entreprise Effraye, gisant dans son sang, vous trouvez l&rsquo;éminent chercheur en cyber et bio. Sur le sol, tracé en lettres de sang, vous pouvez lire le symbole &ldquo;X&rdquo;. Vous décidez donc de vous lancer sur la piste du meurtrier&hellip;</p>]]></description>
+</item>
+<item>
+    <title>Dr Octopus</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:20 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/DrOctopus/DrOctopus.png" title="Sujet" data-thumbnail="/BordeauxCTF/DrOctopus/DrOctopus.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Arrivé sur place avec Interpol, l&rsquo;oiseau s&rsquo;était déjà envolé. Encore.<br>
+Cependant, le téléphone dans votre poche vibre. Ce n&rsquo;est pas le votre, c&rsquo;est celui d&rsquo;Alexis !!!<br>
+Vous recevez une notification : &ldquo;Alexis, Dependabot updates for march&rdquo;</p>
+<p>Trouvez le flag<br>
+format : CTFREI{}</p>
+<p>Par : Onelots.</p></blockquote>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+<item>
+    <title>Folie et ambition</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" title="Sujet" data-thumbnail="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Vous avez tout compris.</p>
+<p>Hugo était fou.<br>
+Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur, mais Alexis a perdu le contrôle et l&rsquo;IA a fini par contrôler Alexis.</p>
+<p>Cela dit, dans l&rsquo;armoire, Hugo a écrit une note : &ldquo;Il existe un code pour désactiver ma création. Je l&rsquo;ai stocké. Flick.&rdquo;</p>]]></description>
+</item>
+<item>
+    <title>La fin ?</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/lafin/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:10 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/lafin/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFin/LaFin.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFin/LaFin.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Alexis a été arrêté près de Moscou. Vous avez prononcé le code. Ayant retrouvé ses esprits, ses yeux s&rsquo;illuminèrent, et dans un grand cri, il disparut dans une explosion de fumée et de morceaux de chair.<br>
+par terre, un papier est tombé.<br>
+dessus est écrit : &ldquo;Ce n&rsquo;est pas fini. J&rsquo;aurai l&rsquo;humanité. Je reviendrai.&rdquo;</p>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MediaInt - Tag - Onelots</title>
+        <link>http://localhost:1313/tags/mediaint/</link>
+        <description>MediaInt - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:54:27 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/mediaint/" rel="self" type="application/rss+xml" /><item>
+    <title>Alexis Dumas</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/alexisdumas/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:27 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/alexisdumas/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/AlexisDumas/AlexisDumas.png" title="Sujet" data-thumbnail="/BordeauxCTF/AlexisDumas/AlexisDumas.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>One of your informants calls you for help, saying he&rsquo;s working on a suspect suspected of trafficking in robots. The individual has been seen at various locations. Find out where this person passed through.</p>
+
+ 
+> 
+> <video width=100% controls autoplay>
+>     <source src="/BordeauxCTF/AlexisDumas/video.mp4" type="video/mp4">
+>     Your browser does not support the video tag.  
+> </video>
+> 
+> 
+</blockquote>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+</channel>
+</rss>

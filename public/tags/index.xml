@@ -1,0 +1,87 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Onelots</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Cybernight</title>
+    <link>http://localhost:1313/tags/cybernight/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/cybernight/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Web</title>
+    <link>http://localhost:1313/tags/web/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/web/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hunt</title>
+    <link>http://localhost:1313/tags/hunt/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/hunt/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>OSINT</title>
+    <link>http://localhost:1313/tags/osint/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/osint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Social Engineering</title>
+    <link>http://localhost:1313/tags/social-engineering/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/social-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Crypto</title>
+    <link>http://localhost:1313/tags/crypto/</link>
+    <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/crypto/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>RSA</title>
+    <link>http://localhost:1313/tags/rsa/</link>
+    <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/rsa/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>SocialInt</title>
+    <link>http://localhost:1313/tags/socialint/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/socialint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>MediaInt</title>
+    <link>http://localhost:1313/tags/mediaint/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:27 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/mediaint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ImInt</title>
+    <link>http://localhost:1313/tags/imint/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:25 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/imint/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

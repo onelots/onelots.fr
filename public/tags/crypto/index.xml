@@ -1,0 +1,59 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Crypto - Tag - Onelots</title>
+        <link>http://localhost:1313/tags/crypto/</link>
+        <description>Crypto - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/crypto/" rel="self" type="application/rss+xml" /><item>
+    <title>Retour aux sources</title>
+    <link>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</link>
+    <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</guid>
+    <description><![CDATA[<h1 id="midnightctf--2024-">MidnightCTF • 2024 •</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Crypto</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Voilà les fichiers qui étaient fournis :</p>
+<p>Source.py et Outpout.txt.</p>
+<p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
+<h2 id="sourcepy-">Source.py :</h2>
+<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
+    <div class="code-header language-py">
+        <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy fa-fw" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-py" data-lang="py"><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">Crypto.Util.number</span> <span class="kn">import</span> <span class="n">getPrime</span><span class="p">,</span> <span class="n">bytes_to_long</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">math</span>
+</span></span><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">super_secret</span> <span class="kn">import</span> <span class="n">flag</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">m</span> <span class="o">=</span> <span class="n">bytes_to_long</span><span class="p">(</span><span class="n">flag</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">z</span> <span class="o">=</span> <span class="p">[]</span>
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">hey</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1024</span><span class="o">**</span><span class="p">(</span><span class="mi">0</span><span class="p">)):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">z</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">getPrime</span><span class="p">(</span><span class="mi">1024</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">n</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">prod</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">e</span> <span class="o">=</span> <span class="mh">0x100001</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;output.txt&#39;</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">n</span> <span class="si">= }</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">e</span> <span class="si">= }</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s2">&#34;c =&#34;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="nb">pow</span><span class="p">(</span><span class="n">m</span><span class="p">,</span> <span class="n">e</span><span class="p">,</span> <span class="n">n</span><span class="p">))))</span></span></span></code></pre></div></div>
+<h2 id="outputtxt">Output.txt:</h2>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-py">
+        <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy fa-fw" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-py" data-lang="py"><span class="line"><span class="cl"><span class="n">n</span> <span class="o">=</span> <span class="mi">120154269905138192411391191398976535526719518763614629012467119791158898243636581028193617198308072414473675597119386635758833912767888946461927038930309978578151909912247022109956454047808157443912106603576628133516080238431851987309829049482974245755557890602608533798942465700524674017649586964749795503907</span>
+</span></span><span class="line"><span class="cl"><span class="n">e</span> <span class="o">=</span> <span class="mi">1048577</span>
+</span></span><span class="line"><span class="cl"><span class="n">c</span> <span class="o">=</span><span class="mi">112131769061863157582206902794706307787376441536475925637794499610352216277884266668233852165255435484902059092228094627632502452075609345890718955546331647782141352807558391026039060334176952276306678953561089609897886575688921388228876952827334853010664153370817811056441329533096065098137670506655501321060</span></span></span></code></pre></div></div>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+</channel>
+</rss>

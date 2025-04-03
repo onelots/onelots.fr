@@ -1,0 +1,261 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Writeups - Category - Onelots</title>
+        <link>http://localhost:1313/categories/writeups/</link>
+        <description>Writeups - Category - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/categories/writeups/" rel="self" type="application/rss+xml" /><item>
+    <title>Mon Champion Préféré</title>
+    <link>http://localhost:1313/posts/2024/cybernight-2024/sivir/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/cybernight-2024/sivir/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/cybernight/sivir/cybn.png" title="Sujet" data-thumbnail="/cybernight/sivir/cybn.png" data-sub-html="<h2>Cybernight 2024</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Cybernight 2024</figcaption>
+    </figure>
+<h1 id="cybernight-2024---web---intro">Cybernight 2024 - Web - Intro</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Tu joues à league of legends ? Moi, je joue à league of legends.
+D&rsquo;ailleurs, je main Sivir. C&rsquo;est un champion que je trouve incroyable mais&hellip; ses stats ne lui rendent pas service, je trouve. Du coup, j&rsquo;ai créé un site qui permet de patch son champion.
+Aide moi à patch Sivir pour qu&rsquo;elle soit la meilleure du jeu !
+Note : dans un jeu, patch un champion signifie lui augmenter ou lui baisser ses stats.
+Auteur : Onelots</p>]]></description>
+</item>
+<item>
+    <title>Stranger Case 2024</title>
+    <link>http://localhost:1313/posts/2024/strangercase2024/strangercase/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/strangercase2024/strangercase/</guid>
+    <description><![CDATA[<h1 id="stranger-case-2024---misson--ecplipse">Stranger Case 2024 - Misson : Ecplipse</h1>
+<hr>
+<h2 id="category">Category</h2>
+<blockquote>
+<p>OSINT</p></blockquote>
+<h2 id="description">Description</h2>
+<p>Le Stranger Case est une enquête OSINT qui se déroule en deux parties : qualifications en ligne, et hunt sur place pour la finale.</p>
+<p>La première phase prend la forme d&rsquo;une enquête en ligne. Nous jouons le rôle d&rsquo;enquêteurs, et sommes appelés pour mener une investigation sur la disparition d&rsquo;une personne.</p>
+<p>Cette phase mélange OSINT et Social Enginnering, puisque les informations que nous trouverons proviendront à grande majorité de sources ouvertes. Pour le reste, cela proviendra d&rsquo;intéractions avec des personnes, évidemment fictives ici.</p>]]></description>
+</item>
+<item>
+    <title>Retour aux sources</title>
+    <link>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</link>
+    <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</guid>
+    <description><![CDATA[<h1 id="midnightctf--2024-">MidnightCTF • 2024 •</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Crypto</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Voilà les fichiers qui étaient fournis :</p>
+<p>Source.py et Outpout.txt.</p>
+<p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
+<h2 id="sourcepy-">Source.py :</h2>
+<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
+    <div class="code-header language-py">
+        <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy fa-fw" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-py" data-lang="py"><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">Crypto.Util.number</span> <span class="kn">import</span> <span class="n">getPrime</span><span class="p">,</span> <span class="n">bytes_to_long</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">math</span>
+</span></span><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">super_secret</span> <span class="kn">import</span> <span class="n">flag</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">m</span> <span class="o">=</span> <span class="n">bytes_to_long</span><span class="p">(</span><span class="n">flag</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">z</span> <span class="o">=</span> <span class="p">[]</span>
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">hey</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1024</span><span class="o">**</span><span class="p">(</span><span class="mi">0</span><span class="p">)):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">z</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">getPrime</span><span class="p">(</span><span class="mi">1024</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">n</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">prod</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">e</span> <span class="o">=</span> <span class="mh">0x100001</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;output.txt&#39;</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">n</span> <span class="si">= }</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">e</span> <span class="si">= }</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s2">&#34;c =&#34;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="nb">pow</span><span class="p">(</span><span class="n">m</span><span class="p">,</span> <span class="n">e</span><span class="p">,</span> <span class="n">n</span><span class="p">))))</span></span></span></code></pre></div></div>
+<h2 id="outputtxt">Output.txt:</h2>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-py">
+        <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy fa-fw" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-py" data-lang="py"><span class="line"><span class="cl"><span class="n">n</span> <span class="o">=</span> <span class="mi">120154269905138192411391191398976535526719518763614629012467119791158898243636581028193617198308072414473675597119386635758833912767888946461927038930309978578151909912247022109956454047808157443912106603576628133516080238431851987309829049482974245755557890602608533798942465700524674017649586964749795503907</span>
+</span></span><span class="line"><span class="cl"><span class="n">e</span> <span class="o">=</span> <span class="mi">1048577</span>
+</span></span><span class="line"><span class="cl"><span class="n">c</span> <span class="o">=</span><span class="mi">112131769061863157582206902794706307787376441536475925637794499610352216277884266668233852165255435484902059092228094627632502452075609345890718955546331647782141352807558391026039060334176952276306678953561089609897886575688921388228876952827334853010664153370817811056441329533096065098137670506655501321060</span></span></span></code></pre></div></div>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+<item>
+    <title>Hugo Nelots - Prélude</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/HugoNelots/HugoNelots.png" title="Sujet" data-thumbnail="/BordeauxCTF/HugoNelots/HugoNelots.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>31/02 2024. Vous êtes dépêché au 83 Rue Lucien Faure. En effet, au 3eme étage de l&rsquo;entreprise Effraye, gisant dans son sang, vous trouvez l&rsquo;éminent chercheur en cyber et bio. Sur le sol, tracé en lettres de sang, vous pouvez lire le symbole &ldquo;X&rdquo;. Vous décidez donc de vous lancer sur la piste du meurtrier&hellip;</p>]]></description>
+</item>
+<item>
+    <title>Alexis Dumas</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/alexisdumas/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:27 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/alexisdumas/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/AlexisDumas/AlexisDumas.png" title="Sujet" data-thumbnail="/BordeauxCTF/AlexisDumas/AlexisDumas.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>One of your informants calls you for help, saying he&rsquo;s working on a suspect suspected of trafficking in robots. The individual has been seen at various locations. Find out where this person passed through.</p>
+
+ 
+> 
+> <video width=100% controls autoplay>
+>     <source src="/BordeauxCTF/AlexisDumas/video.mp4" type="video/mp4">
+>     Your browser does not support the video tag.  
+> </video>
+> 
+> 
+</blockquote>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+<item>
+    <title>La fuite Dumas</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:25 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Vous avez découvert qu&rsquo;Alexis Dumas a menti. Mais Pourquoi ? En attendant, un informateur vous apprend qu&rsquo;il a fui en Espagne et qu&rsquo;il cherche à rejoindre l&rsquo;Algérie par bateau. De plus, l&rsquo;informateur en question a réussi à obtenir une photo satellite de l&rsquo;endroit dont compte partir Alexis Dumas.</p>]]></description>
+</item>
+<item>
+    <title>Un réseau suspect</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:23 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" title="Sujet" data-thumbnail="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Vous l&rsquo;avez retrouvé, mais trop tard&hellip; il a réussi à fuir en Algérie.</p>
+<p>Cependant, vous ne lâchez rien. En faisant une perquisition chez lui, vous retrouvez un smartphone miraculeusement dévérouillé. Après une analyse Forensic par Mr Quenthein Vinsang, il ressort qu&rsquo;il est absolument vide&hellip; Mais qu&rsquo;il a été connecté à 1 seul réseau, appelé DJAWEB_1D80; il semblerait que ce soit le réseau de la résidence secondaire d&rsquo;Alexis.</p>]]></description>
+</item>
+<item>
+    <title>Dr Octopus</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:20 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/DrOctopus/DrOctopus.png" title="Sujet" data-thumbnail="/BordeauxCTF/DrOctopus/DrOctopus.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Arrivé sur place avec Interpol, l&rsquo;oiseau s&rsquo;était déjà envolé. Encore.<br>
+Cependant, le téléphone dans votre poche vibre. Ce n&rsquo;est pas le votre, c&rsquo;est celui d&rsquo;Alexis !!!<br>
+Vous recevez une notification : &ldquo;Alexis, Dependabot updates for march&rdquo;</p>
+<p>Trouvez le flag<br>
+format : CTFREI{}</p>
+<p>Par : Onelots.</p></blockquote>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>]]></description>
+</item>
+<item>
+    <title>Back to the bureau</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:17 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" title="Sujet" data-thumbnail="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>One of your informants calls you for help, saying he&rsquo;s working on a suspect suspected of trafficking in robots. The individual has been seen at various locations. Find out where this person passed through.</p>
+<embed src= "/BordeauxCTF/BackToTheBureau/sujet.pdf" width= "100%" height= "1000px" type="application/pdf" >
+
+</blockquote>
+<h2 id="difficulty-">Difficulty :</h2>
+<p><strong>EASY</strong></p>
+<h2 id="write-up-">Write up :</h2>
+<p>Il y a plusieurs méthodes pour résoudre ce challenge.</p>]]></description>
+</item>
+<item>
+    <title>Folie et ambition</title>
+    <link>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</link>
+    <pubDate>Wed, 10 Apr 2024 00:54:16 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" title="Sujet" data-thumbnail="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
+    </figure>
+<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Vous avez tout compris.</p>
+<p>Hugo était fou.<br>
+Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur, mais Alexis a perdu le contrôle et l&rsquo;IA a fini par contrôler Alexis.</p>
+<p>Cela dit, dans l&rsquo;armoire, Hugo a écrit une note : &ldquo;Il existe un code pour désactiver ma création. Je l&rsquo;ai stocké. Flick.&rdquo;</p>]]></description>
+</item>
+</channel>
+</rss>

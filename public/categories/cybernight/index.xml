@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cybernight - Category - Onelots</title>
+        <link>http://localhost:1313/categories/cybernight/</link>
+        <description>Cybernight - Category - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/categories/cybernight/" rel="self" type="application/rss+xml" /><item>
+    <title>Mon Champion Préféré</title>
+    <link>http://localhost:1313/posts/2024/cybernight-2024/sivir/</link>
+    <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/cybernight-2024/sivir/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/cybernight/sivir/cybn.png" title="Sujet" data-thumbnail="/cybernight/sivir/cybn.png" data-sub-html="<h2>Cybernight 2024</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Cybernight 2024</figcaption>
+    </figure>
+<h1 id="cybernight-2024---web---intro">Cybernight 2024 - Web - Intro</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Tu joues à league of legends ? Moi, je joue à league of legends.
+D&rsquo;ailleurs, je main Sivir. C&rsquo;est un champion que je trouve incroyable mais&hellip; ses stats ne lui rendent pas service, je trouve. Du coup, j&rsquo;ai créé un site qui permet de patch son champion.
+Aide moi à patch Sivir pour qu&rsquo;elle soit la meilleure du jeu !
+Note : dans un jeu, patch un champion signifie lui augmenter ou lui baisser ses stats.
+Auteur : Onelots</p>]]></description>
+</item>
+</channel>
+</rss>

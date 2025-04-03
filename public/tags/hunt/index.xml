@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hunt - Tag - Onelots</title>
+        <link>http://localhost:1313/tags/hunt/</link>
+        <description>Hunt - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2024 17:33:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/hunt/" rel="self" type="application/rss+xml" /><item>
+    <title>Stranger Case 2024</title>
+    <link>http://localhost:1313/posts/2024/strangercase2024/strangercase/</link>
+    <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2024/strangercase2024/strangercase/</guid>
+    <description><![CDATA[<h1 id="stranger-case-2024---misson--ecplipse">Stranger Case 2024 - Misson : Ecplipse</h1>
+<hr>
+<h2 id="category">Category</h2>
+<blockquote>
+<p>OSINT</p></blockquote>
+<h2 id="description">Description</h2>
+<p>Le Stranger Case est une enquête OSINT qui se déroule en deux parties : qualifications en ligne, et hunt sur place pour la finale.</p>
+<p>La première phase prend la forme d&rsquo;une enquête en ligne. Nous jouons le rôle d&rsquo;enquêteurs, et sommes appelés pour mener une investigation sur la disparition d&rsquo;une personne.</p>
+<p>Cette phase mélange OSINT et Social Enginnering, puisque les informations que nous trouverons proviendront à grande majorité de sources ouvertes. Pour le reste, cela proviendra d&rsquo;intéractions avec des personnes, évidemment fictives ici.</p>]]></description>
+</item>
+</channel>
+</rss>
