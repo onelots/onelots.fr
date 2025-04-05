@@ -11,6 +11,7 @@ categories:
 
 
 ---
+
 {{< image src="/FIC2025/ronron/ronron.png" caption="Fox & Ec2" title="Sujet" alt="Sujet" >}}
 
 # Projet FOX • EC2 2024 • Alpha
@@ -51,7 +52,7 @@ Contrairement à ce que nous avons cru, lorsque l'énoncé parlait de révision,
 
 Nous avons donc ce manuel : 
 
-{{< image src="/FIC2025/ronron/manuel.png" caption="Fox & Ec2" title="Manuel d'utilisation" alt=""Manuel d'utilisation" >}}
+{{< image src="/FIC2025/ronron/manuel.png" caption="Fox & Ec2" title="Manuel" alt="Manuel" >}}
 
 Ce pdf n'étant qu'un scan de pages, il n'est donc pas possible de ctrl + f.
 On se dirige donc vers la table des matières, puis à la page 202 pour consulter la liste des équipements.
@@ -63,9 +64,3 @@ Et page 203, on trouve une ligne particulièrement intéressante :
 {{< admonition type=success title="Flag" open=false >}}
 :triangular_flag_on_post: `FLAG{72-03-R}`
 {{< /admonition >}}
-
-
-
-
-
-
