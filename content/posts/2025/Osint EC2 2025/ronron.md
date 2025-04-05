@@ -63,5 +63,5 @@ Et page 203, on trouve une ligne particulièrement intéressante :
 {{< image src="/FIC2025/ronron/moteur.png" caption="Infos sur le moteur" title="Info moteur" alt="Info moteur" >}}
 
 {{< admonition type=success title="Flag" open=false >}}
-:triangular_flag_on_post: `FLAG{72-03-R}`
+:triangular_flag_on_post: `72-03-R`
 {{< /admonition >}}

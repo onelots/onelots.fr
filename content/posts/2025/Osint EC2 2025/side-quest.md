@@ -70,5 +70,5 @@ Mouais... Pas convaincu. Mais en essayant ça fonctionne.
 Voilà pourquoi je dis que ce challenge était un brin guessy... C'est vraiment bizarre de devoir jouer avec spotify comme ça, d'autant plus qu'on ne peut modifier l'ordre que sur l'application de bureau... Enfin bref
 
 {{< admonition type=success title="Flag" open=false >}}
-:triangular_flag_on_post: `FLAG{Here's to You The Flag - - - - - - - Breach Security}`
+:triangular_flag_on_post: `Here's to You The Flag - - - - - - - Breach Security`
 {{< /admonition >}}
