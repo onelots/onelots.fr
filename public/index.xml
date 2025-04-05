@@ -3,9 +3,28 @@
         <title>Onelots</title>
         <link>http://localhost:1313/</link>
         <description>French IT student. I like docker 🐳, scraping 🥷  and Osint 👀.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 12:20:00 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 12:22:00 &#43;0100</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Cuanto ?</title>
+    <link>http://localhost:1313/posts/2025/osint-ec2-2025/cuanto/</link>
+    <pubDate>Fri, 04 Apr 2025 12:22:00 &#43;0100</pubDate>
+    <author>Onelots</author>
+    <guid>http://localhost:1313/posts/2025/osint-ec2-2025/cuanto/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/FIC2025/cuanto/cuanto.png" title="Sujet" data-thumbnail="/FIC2025/cuanto/cuanto.png" data-sub-html="<h2>Fox &amp; Ec2</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
+    </figure>
+<h1 id="projet-fox--ec2-2025--cuanto-">Projet FOX • EC2 2025 • Cuanto ?</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Uthen a malheureusement commis une erreur de &ldquo;trading&rdquo; qui lui a coûté sa place de top trader. Dans un moment de frustration, il a avoué qu&rsquo;il avait un petit FOMO et a perdu une partie de ses gains. Ainsi il se pourrait qu&rsquo;il eu une deuxième adresse, est-il possible de retrouver le montant du premier gain ?</p>]]></description>
+</item>
+<item>
     <title>Quien Es ?</title>
     <link>http://localhost:1313/posts/2025/osint-ec2-2025/quien_es/</link>
     <pubDate>Fri, 04 Apr 2025 12:20:00 &#43;0100</pubDate>
@@ -224,26 +243,6 @@ Auteur : Onelots</p>]]></description>
 <h2 id="description-">Description :</h2>
 <blockquote>
 <p>Vous avez découvert qu&rsquo;Alexis Dumas a menti. Mais Pourquoi ? En attendant, un informateur vous apprend qu&rsquo;il a fui en Espagne et qu&rsquo;il cherche à rejoindre l&rsquo;Algérie par bateau. De plus, l&rsquo;informateur en question a réussi à obtenir une photo satellite de l&rsquo;endroit dont compte partir Alexis Dumas.</p>]]></description>
-</item>
-<item>
-    <title>Un réseau suspect</title>
-    <link>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</link>
-    <pubDate>Wed, 10 Apr 2024 00:54:23 &#43;0100</pubDate>
-    <author>Onelots</author>
-    <guid>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" title="Sujet" data-thumbnail="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
-    </figure>
-<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
-<hr>
-<h2 id="category-">Category :</h2>
-<blockquote>
-<p>Osint</p></blockquote>
-<h2 id="description-">Description :</h2>
-<blockquote>
-<p>Vous l&rsquo;avez retrouvé, mais trop tard&hellip; il a réussi à fuir en Algérie.</p>
-<p>Cependant, vous ne lâchez rien. En faisant une perquisition chez lui, vous retrouvez un smartphone miraculeusement dévérouillé. Après une analyse Forensic par Mr Quenthein Vinsang, il ressort qu&rsquo;il est absolument vide&hellip; Mais qu&rsquo;il a été connecté à 1 seul réseau, appelé DJAWEB_1D80; il semblerait que ce soit le réseau de la résidence secondaire d&rsquo;Alexis.</p>]]></description>
 </item>
 </channel>
 </rss>
