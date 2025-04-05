@@ -1,6 +1,7 @@
 ---
 
 title: "Mon Champion Préféré"
+author: "Onelots"
 date: 2024-11-23T10:50:00+01:00
 draft: false
 tags: ['Web', 'Cybernight']

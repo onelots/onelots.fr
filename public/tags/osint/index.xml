@@ -1,13 +1,32 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>OSINT - Tag - Onelots</title>
+        <title>Osint - Tag - Onelots</title>
         <link>http://localhost:1313/tags/osint/</link>
-        <description>OSINT - Tag - Onelots</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2024 17:33:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/osint/" rel="self" type="application/rss+xml" /><item>
+        <description>Osint - Tag - Onelots</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/osint/" rel="self" type="application/rss+xml" /><item>
+    <title>RonRon</title>
+    <link>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</link>
+    <pubDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</pubDate>
+    <author>Onelots</author>
+    <guid>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/FIC2025/ronron/ronron.png" title="Sujet" data-thumbnail="/FIC2025/ronron/ronron.png" data-sub-html="<h2>Fox &amp; Ec2</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
+    </figure>
+<h1 id="projet-fox--ec2-2024--alpha">Projet FOX • EC2 2024 • Alpha</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Lors d&rsquo;une soirée dans un café prisé, vous tendez l&rsquo;oreille pour écouter une conversation derrière vous. Une femme se vante d&rsquo;être parvenue à prendre le contrôle à distance de la puissance moteur d&rsquo;avions de tourisme, avec un complice dans une entreprise de maintenance aéronautique. Mais elle a arrêté après que l&rsquo;un des avions piraté se soit écrasé. Cela semble être un bon tuyau, pour cibler les avions ou pour faire chanter son complice, ça sera suivant votre hummeur&hellip;</p>]]></description>
+</item>
+<item>
     <title>Stranger Case 2024</title>
     <link>http://localhost:1313/posts/2024/strangercase2024/strangercase/</link>
     <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
-    <author>xxxx</author>
+    <author>Onelots, Calygael, NoZzy, Skiep</author>
     <guid>http://localhost:1313/posts/2024/strangercase2024/strangercase/</guid>
     <description><![CDATA[<h1 id="stranger-case-2024---misson--ecplipse">Stranger Case 2024 - Misson : Ecplipse</h1>
 <hr>
@@ -23,7 +42,7 @@
     <title>Hugo Nelots - Prélude</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/HugoNelots/HugoNelots.png" title="Sujet" data-thumbnail="/BordeauxCTF/HugoNelots/HugoNelots.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -73,7 +92,7 @@
     <title>La fuite Dumas</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:25 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -92,7 +111,7 @@
     <title>Un réseau suspect</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:23 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" title="Sujet" data-thumbnail="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -112,7 +131,7 @@
     <title>Dr Octopus</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:20 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/DrOctopus/DrOctopus.png" title="Sujet" data-thumbnail="/BordeauxCTF/DrOctopus/DrOctopus.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -138,7 +157,7 @@ format : CTFREI{}</p>
     <title>Back to the bureau</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:17 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" title="Sujet" data-thumbnail="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -164,7 +183,7 @@ format : CTFREI{}</p>
     <title>Folie et ambition</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:16 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" title="Sujet" data-thumbnail="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -186,7 +205,7 @@ Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur
     <title>La fin ?</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/lafin/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:10 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/lafin/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFin/LaFin.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFin/LaFin.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -202,31 +221,6 @@ Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur
 <p>Alexis a été arrêté près de Moscou. Vous avez prononcé le code. Ayant retrouvé ses esprits, ses yeux s&rsquo;illuminèrent, et dans un grand cri, il disparut dans une explosion de fumée et de morceaux de chair.<br>
 par terre, un papier est tombé.<br>
 dessus est écrit : &ldquo;Ce n&rsquo;est pas fini. J&rsquo;aurai l&rsquo;humanité. Je reviendrai.&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>Foxtrot - Journey beyond the horizon</title>
-    <link>http://localhost:1313/posts/2024/osint-ec2-2024/foxtrot/</link>
-    <pubDate>Fri, 05 Apr 2024 00:26:00 &#43;0100</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/2024/osint-ec2-2024/foxtrot/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/foxtrot/Foxtrot.png" title="Sujet" data-thumbnail="/foxtrot/Foxtrot.png" data-sub-html="<h2>Projet Fox &amp; EC2</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">Projet Fox &amp; EC2</figcaption>
-    </figure>
-<h1 id="projet-fox--ec2-2024--foxtrot">Projet FOX • EC2 2024 • Foxtrot</h1>
-<hr>
-<h2 id="category-">Category :</h2>
-<blockquote>
-<p>Osint</p></blockquote>
-<h2 id="description-">Description :</h2>
-<blockquote>
-<p>The individual found on his way an antiques dealer in a pick-up truck . He published a photo of a well-guarded site. Find out his name.</p>
-<figure><a class="lightgallery" href="/foxtrot/img.jpg" title="Sujet" data-thumbnail="/foxtrot/img.jpg" data-sub-html="<h2>Sujet</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">Sujet</figcaption>
-    </figure></blockquote>
-<h2 id="difficulty-">Difficulty :</h2>
-<p><strong>EASY</strong></p>]]></description>
 </item>
 </channel>
 </rss>

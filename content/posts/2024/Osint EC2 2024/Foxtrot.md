@@ -1,5 +1,6 @@
 ---
 title: "Foxtrot - Journey beyond the horizon"
+author: "Onelots"
 date: 2024-04-05T00:26:00+01:00
 draft: false
 tags: ['Osint', 'ImInt']

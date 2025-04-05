@@ -1,5 +1,6 @@
 ---
 title: "Bravo - Journey beyond the horizon"
+author: "Onelots"
 date: 2024-03-30T12:19:16+01:00
 draft: false
 tags: ['Osint', 'ImInt', 'GeoInt']

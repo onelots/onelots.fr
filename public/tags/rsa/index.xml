@@ -7,7 +7,7 @@
     <title>Retour aux sources</title>
     <link>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</link>
     <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</guid>
     <description><![CDATA[<h1 id="midnightctf--2024-">MidnightCTF • 2024 •</h1>
 <hr>
@@ -20,7 +20,7 @@
 <p>Source.py et Outpout.txt.</p>
 <p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
 <h2 id="sourcepy-">Source.py :</h2>
-<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
     <div class="code-header language-py">
         <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
         <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>

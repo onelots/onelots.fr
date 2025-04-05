@@ -2,17 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/ec2-2025/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/osint/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/writeups/</loc><lastmod>2025-04-03T12:19:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/cybernight/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/cybernight/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/2024/cybernight-2024/sivir/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/web/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/writeups/</loc><lastmod>2024-11-23T10:50:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/hunt/</loc><lastmod>2024-05-05T17:33:47&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/osint/</loc><lastmod>2024-05-05T17:33:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/social-engineering/</loc><lastmod>2024-05-05T17:33:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/stranger-case-2024/</loc><lastmod>2024-05-05T17:33:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/2024/strangercase2024/strangercase/</loc><lastmod>2024-05-05T17:33:47&#43;02:00</lastmod></url><url>
@@ -34,12 +36,16 @@
             <loc>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</loc><lastmod>2024-04-10T00:54:16&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/2024/bordeauxctf/lafin/</loc><lastmod>2024-04-10T00:54:10&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/ec2-2024/</loc><lastmod>2024-04-05T00:26:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/foxtrot/</loc><lastmod>2024-04-05T00:26:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/echo/</loc><lastmod>2024-04-01T02:08:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/foxtrot/</loc><lastmod>2024-04-05T00:26:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/echo/</loc><lastmod>2024-04-01T02:08:00&#43;01:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/geoint/</loc><lastmod>2024-04-01T02:08:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/blood/</loc><lastmod>2024-03-31T00:51:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/bravo/</loc><lastmod>2024-03-30T12:19:16&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/alpha/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/charlie/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/2024/osint-ec2/delta/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/blood/</loc><lastmod>2024-03-31T00:51:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/bravo/</loc><lastmod>2024-03-30T12:19:16&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/alpha/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/charlie/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2024/osint-ec2-2024/delta/</loc><lastmod>2024-03-30T12:19:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/2025/osint-ec2-2025/back_to_school/</loc></url><url>
+            <loc>http://localhost:1313/posts/2025/osint-ec2-2025/cuanto/</loc></url><url>
+            <loc>http://localhost:1313/posts/2025/osint-ec2-2025/quien_es/</loc></url><url>
+            <loc>http://localhost:1313/posts/2025/osint-ec2-2025/side-quest/</loc></url><url>
             <loc>http://localhost:1313/aboutme/</loc></url></urlset>

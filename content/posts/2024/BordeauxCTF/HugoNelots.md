@@ -1,5 +1,6 @@
 ---
 title: "Hugo Nelots - Prélude"
+author: "Onelots"
 date: 2024-04-10T00:54:30+01:00
 draft: false
 tags: ['Osint', 'SocialInt']

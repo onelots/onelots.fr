@@ -1,5 +1,6 @@
 ---
 title: "Stranger Case 2024"
+author: "Onelots, Calygael, NoZzy, Skiep"
 date: 2024-05-05T17:33:47+02:00
 draft: false
 tags: ['OSINT', 'Hunt', 'Social Engineering']

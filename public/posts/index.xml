@@ -26,7 +26,7 @@
     <title>Mon Champion Préféré</title>
     <link>http://localhost:1313/posts/2024/cybernight-2024/sivir/</link>
     <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/cybernight-2024/sivir/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/cybernight/sivir/cybn.png" title="Sujet" data-thumbnail="/cybernight/sivir/cybn.png" data-sub-html="<h2>Cybernight 2024</h2><p>Sujet</p>">
         
@@ -49,7 +49,7 @@ Auteur : Onelots</p>]]></description>
     <title>Stranger Case 2024</title>
     <link>http://localhost:1313/posts/2024/strangercase2024/strangercase/</link>
     <pubDate>Sun, 05 May 2024 17:33:47 &#43;0200</pubDate>
-    <author>xxxx</author>
+    <author>Onelots, Calygael, NoZzy, Skiep</author>
     <guid>http://localhost:1313/posts/2024/strangercase2024/strangercase/</guid>
     <description><![CDATA[<h1 id="stranger-case-2024---misson--ecplipse">Stranger Case 2024 - Misson : Ecplipse</h1>
 <hr>
@@ -65,7 +65,7 @@ Auteur : Onelots</p>]]></description>
     <title>Retour aux sources</title>
     <link>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</link>
     <pubDate>Sun, 28 Apr 2024 23:39:16 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/midnightctf/retour_aux_sources/</guid>
     <description><![CDATA[<h1 id="midnightctf--2024-">MidnightCTF • 2024 •</h1>
 <hr>
@@ -78,7 +78,7 @@ Auteur : Onelots</p>]]></description>
 <p>Source.py et Outpout.txt.</p>
 <p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
 <h2 id="sourcepy-">Source.py :</h2>
-<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
     <div class="code-header language-py">
         <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
         <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
@@ -117,7 +117,7 @@ Auteur : Onelots</p>]]></description>
     <title>Hugo Nelots - Prélude</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:30 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/hugonelots/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/HugoNelots/HugoNelots.png" title="Sujet" data-thumbnail="/BordeauxCTF/HugoNelots/HugoNelots.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -167,7 +167,7 @@ Auteur : Onelots</p>]]></description>
     <title>La fuite Dumas</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:25 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/lafuitedumas/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFuiteDumas/LaFuiteDumas.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -186,7 +186,7 @@ Auteur : Onelots</p>]]></description>
     <title>Un réseau suspect</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:23 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/unreseaususpect/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" title="Sujet" data-thumbnail="/BordeauxCTF/UnReseauSuspect/UnReseauSuspect.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -206,7 +206,7 @@ Auteur : Onelots</p>]]></description>
     <title>Dr Octopus</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:20 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/droctopus/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/DrOctopus/DrOctopus.png" title="Sujet" data-thumbnail="/BordeauxCTF/DrOctopus/DrOctopus.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
@@ -232,7 +232,7 @@ format : CTFREI{}</p>
     <title>Back to the bureau</title>
     <link>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</link>
     <pubDate>Wed, 10 Apr 2024 00:54:17 &#43;0100</pubDate>
-    <author>xxxx</author>
+    <author>Onelots</author>
     <guid>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" title="Sujet" data-thumbnail="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
         
