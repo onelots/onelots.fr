@@ -59,7 +59,7 @@ Auteur : Onelots</p>]]></description>
 <p>Source.py et Outpout.txt.</p>
 <p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
 <h2 id="sourcepy-">Source.py :</h2>
-<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
     <div class="code-header language-py">
         <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
         <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
