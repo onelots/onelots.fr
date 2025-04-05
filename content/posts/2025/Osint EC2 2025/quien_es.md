@@ -4,11 +4,12 @@ title: "Quien Es ?"
 author: "Onelots"
 date: 2025-04-04T12:20:00+01:00
 draft: false
-tags: ['Osint']
+tags: ['Osint', 'Socmint']
 categories:
 
 - 'Writeups'
 - 'EC2 2025'
+- 'Bravo 2025'
 
 
 ---
