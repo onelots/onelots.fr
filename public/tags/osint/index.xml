@@ -3,7 +3,28 @@
         <title>Osint - Tag - Onelots</title>
         <link>http://localhost:1313/tags/osint/</link>
         <description>Osint - Tag - Onelots</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/osint/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:05 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/osint/" rel="self" type="application/rss+xml" /><item>
+    <title>SideQuest - Echos discordants</title>
+    <link>http://localhost:1313/posts/2025/osint-ec2-2025/side-quest/</link>
+    <pubDate>Thu, 03 Apr 2025 12:19:05 &#43;0100</pubDate>
+    <author>Onelots</author>
+    <guid>http://localhost:1313/posts/2025/osint-ec2-2025/side-quest/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/FIC2025/sidequest/sidequest.png" title="Sujet" data-thumbnail="/FIC2025/sidequest/sidequest.png" data-sub-html="<h2>Fox &amp; Ec2</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
+    </figure>
+<h1 id="projet-fox--ec2-2025--sidequest---echos-discordants">Projet FOX • EC2 2025 • SideQuest - Echos Discordants</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Les notes dansent, les idées s&rsquo;organisent&hellip; Notre homme laisse des traces dans sa vie numérique. Un message se cache là où mélodie et méthode se rencontrent. Parfois, l&rsquo;ordre fait toute la différence. Qu&rsquo;essaie-t-il de nous dire?</p></blockquote>
+<blockquote>
+<p>Format du flag : deux mélodies - - - - - - deux mélodies</p>]]></description>
+</item>
+<item>
     <title>RonRon</title>
     <link>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</link>
     <pubDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</pubDate>
@@ -13,7 +34,7 @@
         
     </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
     </figure>
-<h1 id="projet-fox--ec2-2024--alpha">Projet FOX • EC2 2024 • Alpha</h1>
+<h1 id="projet-fox--ec2-2025--ronron">Projet FOX • EC2 2025 • Ronron</h1>
 <hr>
 <h2 id="category-">Category :</h2>
 <blockquote>
@@ -200,27 +221,6 @@ format : CTFREI{}</p>
 <p>Hugo était fou.<br>
 Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur, mais Alexis a perdu le contrôle et l&rsquo;IA a fini par contrôler Alexis.</p>
 <p>Cela dit, dans l&rsquo;armoire, Hugo a écrit une note : &ldquo;Il existe un code pour désactiver ma création. Je l&rsquo;ai stocké. Flick.&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>La fin ?</title>
-    <link>http://localhost:1313/posts/2024/bordeauxctf/lafin/</link>
-    <pubDate>Wed, 10 Apr 2024 00:54:10 &#43;0100</pubDate>
-    <author>Onelots</author>
-    <guid>http://localhost:1313/posts/2024/bordeauxctf/lafin/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/LaFin/LaFin.png" title="Sujet" data-thumbnail="/BordeauxCTF/LaFin/LaFin.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
-    </figure>
-<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
-<hr>
-<h2 id="category-">Category :</h2>
-<blockquote>
-<p>Osint</p></blockquote>
-<h2 id="description-">Description :</h2>
-<blockquote>
-<p>Alexis a été arrêté près de Moscou. Vous avez prononcé le code. Ayant retrouvé ses esprits, ses yeux s&rsquo;illuminèrent, et dans un grand cri, il disparut dans une explosion de fumée et de morceaux de chair.<br>
-par terre, un papier est tombé.<br>
-dessus est écrit : &ldquo;Ce n&rsquo;est pas fini. J&rsquo;aurai l&rsquo;humanité. Je reviendrai.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>

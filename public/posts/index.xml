@@ -3,7 +3,28 @@
         <title>All Posts - Onelots</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Onelots</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:05 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>SideQuest - Echos discordants</title>
+    <link>http://localhost:1313/posts/2025/osint-ec2-2025/side-quest/</link>
+    <pubDate>Thu, 03 Apr 2025 12:19:05 &#43;0100</pubDate>
+    <author>Onelots</author>
+    <guid>http://localhost:1313/posts/2025/osint-ec2-2025/side-quest/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/FIC2025/sidequest/sidequest.png" title="Sujet" data-thumbnail="/FIC2025/sidequest/sidequest.png" data-sub-html="<h2>Fox &amp; Ec2</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
+    </figure>
+<h1 id="projet-fox--ec2-2025--sidequest---echos-discordants">Projet FOX • EC2 2025 • SideQuest - Echos Discordants</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Les notes dansent, les idées s&rsquo;organisent&hellip; Notre homme laisse des traces dans sa vie numérique. Un message se cache là où mélodie et méthode se rencontrent. Parfois, l&rsquo;ordre fait toute la différence. Qu&rsquo;essaie-t-il de nous dire?</p></blockquote>
+<blockquote>
+<p>Format du flag : deux mélodies - - - - - - deux mélodies</p>]]></description>
+</item>
+<item>
     <title>RonRon</title>
     <link>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</link>
     <pubDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</pubDate>
@@ -13,7 +34,7 @@
         
     </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
     </figure>
-<h1 id="projet-fox--ec2-2024--alpha">Projet FOX • EC2 2024 • Alpha</h1>
+<h1 id="projet-fox--ec2-2025--ronron">Projet FOX • EC2 2025 • Ronron</h1>
 <hr>
 <h2 id="category-">Category :</h2>
 <blockquote>
@@ -78,7 +99,7 @@ Auteur : Onelots</p>]]></description>
 <p>Source.py et Outpout.txt.</p>
 <p>Il faut se baser sur ces deux fichiers pour résoudre le challenge.</p></blockquote>
 <h2 id="sourcepy-">Source.py :</h2>
-<div class="code-block code-line-numbers" style="counter-reset: code-block 0">
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
     <div class="code-header language-py">
         <span class="code-title"><i class="arrow fas fa-angle-right fa-fw" aria-hidden="true"></i></span>
         <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
@@ -227,32 +248,6 @@ format : CTFREI{}</p>
 <p>Par : Onelots.</p></blockquote>
 <h2 id="difficulty-">Difficulty :</h2>
 <p><strong>EASY</strong></p>]]></description>
-</item>
-<item>
-    <title>Back to the bureau</title>
-    <link>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</link>
-    <pubDate>Wed, 10 Apr 2024 00:54:17 &#43;0100</pubDate>
-    <author>Onelots</author>
-    <guid>http://localhost:1313/posts/2024/bordeauxctf/backtothebureau/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" title="Sujet" data-thumbnail="/BordeauxCTF/BackToTheBureau/BackToTheBureau.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
-    </figure>
-<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
-<hr>
-<h2 id="category-">Category :</h2>
-<blockquote>
-<p>Osint</p></blockquote>
-<h2 id="description-">Description :</h2>
-<blockquote>
-<p>One of your informants calls you for help, saying he&rsquo;s working on a suspect suspected of trafficking in robots. The individual has been seen at various locations. Find out where this person passed through.</p>
-<embed src= "/BordeauxCTF/BackToTheBureau/sujet.pdf" width= "100%" height= "1000px" type="application/pdf" >
-
-</blockquote>
-<h2 id="difficulty-">Difficulty :</h2>
-<p><strong>EASY</strong></p>
-<h2 id="write-up-">Write up :</h2>
-<p>Il y a plusieurs méthodes pour résoudre ce challenge.</p>]]></description>
 </item>
 </channel>
 </rss>

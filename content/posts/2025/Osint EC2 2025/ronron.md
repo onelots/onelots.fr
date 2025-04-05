@@ -15,7 +15,7 @@ categories:
 
 {{< image src="/FIC2025/ronron/ronron.png" caption="Fox & Ec2" title="Sujet" alt="Sujet" >}}
 
-# Projet FOX • EC2 2024 • Alpha
+# Projet FOX • EC2 2025 • Ronron
 
 --- 
 
