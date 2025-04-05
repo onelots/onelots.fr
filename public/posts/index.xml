@@ -3,7 +3,26 @@
         <title>All Posts - Onelots</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Onelots</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>RonRon</title>
+    <link>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</link>
+    <pubDate>Thu, 03 Apr 2025 12:19:00 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/2025/osint-ec2-2025/ronron/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/FIC2025/ronron/ronron.png" title="Sujet" data-thumbnail="/FIC2025/ronron/ronron.png" data-sub-html="<h2>Fox &amp; Ec2</h2><p>Sujet</p>">
+        
+    </a><figcaption class="image-caption">Fox &amp; Ec2</figcaption>
+    </figure>
+<h1 id="projet-fox--ec2-2024--alpha">Projet FOX • EC2 2024 • Alpha</h1>
+<hr>
+<h2 id="category-">Category :</h2>
+<blockquote>
+<p>Osint</p></blockquote>
+<h2 id="description-">Description :</h2>
+<blockquote>
+<p>Lors d&rsquo;une soirée dans un café prisé, vous tendez l&rsquo;oreille pour écouter une conversation derrière vous. Une femme se vante d&rsquo;être parvenue à prendre le contrôle à distance de la puissance moteur d&rsquo;avions de tourisme, avec un complice dans une entreprise de maintenance aéronautique. Mais elle a arrêté après que l&rsquo;un des avions piraté se soit écrasé. Cela semble être un bon tuyau, pour cibler les avions ou pour faire chanter son complice, ça sera suivant votre hummeur&hellip;</p>]]></description>
+</item>
+<item>
     <title>Mon Champion Préféré</title>
     <link>http://localhost:1313/posts/2024/cybernight-2024/sivir/</link>
     <pubDate>Sat, 23 Nov 2024 10:50:00 &#43;0100</pubDate>
@@ -234,28 +253,6 @@ format : CTFREI{}</p>
 <p><strong>EASY</strong></p>
 <h2 id="write-up-">Write up :</h2>
 <p>Il y a plusieurs méthodes pour résoudre ce challenge.</p>]]></description>
-</item>
-<item>
-    <title>Folie et ambition</title>
-    <link>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</link>
-    <pubDate>Wed, 10 Apr 2024 00:54:16 &#43;0100</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/2024/bordeauxctf/folieetambition/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" title="Sujet" data-thumbnail="/BordeauxCTF/FolieEtAmbition/FolieEtAmbition.png" data-sub-html="<h2>BordeauxCTF</h2><p>Sujet</p>">
-        
-    </a><figcaption class="image-caption">BordeauxCTF</figcaption>
-    </figure>
-<h1 id="bordeaux-ctf-by-ctfrei">Bordeaux CTF by CTFREI</h1>
-<hr>
-<h2 id="category-">Category :</h2>
-<blockquote>
-<p>Osint</p></blockquote>
-<h2 id="description-">Description :</h2>
-<blockquote>
-<p>Vous avez tout compris.</p>
-<p>Hugo était fou.<br>
-Les outils ont servi à implanter une puce à Alexis, afin de le rendre meilleur, mais Alexis a perdu le contrôle et l&rsquo;IA a fini par contrôler Alexis.</p>
-<p>Cela dit, dans l&rsquo;armoire, Hugo a écrit une note : &ldquo;Il existe un code pour désactiver ma création. Je l&rsquo;ai stocké. Flick.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>
